@@ -1,6 +1,6 @@
 {
     "name": "coda",
-    "version": "2.7.6",
-    "api": "2.4.0",
+    "version": "2.7.7",
+    "api": "2.5.0",
     "requiresPython": ">=3.10.4"
 }
